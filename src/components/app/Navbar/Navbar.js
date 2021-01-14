@@ -33,7 +33,7 @@ const Navbar = () => {
       </ul>
 
       <div className="navbar__action">
-        <button className="navbar__action__button">sign in/sign up</button>
+        <button className="navbar__action__button">sign in / sign up</button>
         <button className="navbar__action__button">
           <i class="fas fa-shopping-cart"></i>
         </button>

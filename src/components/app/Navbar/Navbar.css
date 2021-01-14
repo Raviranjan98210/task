@@ -33,8 +33,10 @@
 }
 .navbar__action__button {
   cursor: pointer;
-  padding: 10px 20px;
+  text-transform: uppercase;
+  padding: 10px 18px;
   border-radius: 3px;
+  font-size: 10px;
   border: 1px solid #fff;
   background-color: transparent;
   color: #fff;

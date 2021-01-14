@@ -1,0 +1,39 @@
+.propertylist {
+  padding: 30px 70px;
+}
+
+.propertylist__heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.propertylist__heading__items {
+  display: flex;
+  align-items: center;
+}
+
+.propertylist__heading__text {
+  text-transform: uppercase;
+}
+
+.MuiOutlinedInput-input {
+  padding: 9.5px 14px !important;
+}
+.MuiInputLabel-outlined {
+  transform: translate(14px, 13px) scale(1) !important;
+  font-size: 12px !important;
+}
+
+.button__map {
+  margin-left: 10px;
+  padding: 8px;
+}
+.button__table {
+  margin-left: 10px;
+  padding: 8px;
+  background-color: #be0303;
+  border-radius: 3px;
+  color: white;
+}

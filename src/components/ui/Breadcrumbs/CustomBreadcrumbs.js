@@ -7,10 +7,10 @@ const CustomBreadcrumbs = () => {
   return (
     <div className="breadcrumbs">
       <Breadcrumbs separator="»" aria-label="breadcrumb">
-        <Link color="inherit" to="/" className="breadcrumb__link">
+        <Link color="inherit" to="/Home" className="breadcrumb__link">
           Home
         </Link>
-        <Link color="inherit" to="/" className="breadcrumb__link">
+        <Link color="inherit" to="/Home/Listing" className="breadcrumb__link">
           Listing
         </Link>
       </Breadcrumbs>
