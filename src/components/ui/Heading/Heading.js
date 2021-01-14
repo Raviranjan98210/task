@@ -1,8 +1,8 @@
 import React from "react";
-
+import "./Heading.css";
 const Heading = ({ text }) => {
   return (
-    <div>
+    <div className="heading">
       <h1>{text}</h1>
     </div>
   );

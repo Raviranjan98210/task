@@ -1,0 +1,15 @@
+.breadcrumbs {
+  background-color: lightgray;
+  padding: 8px 70px;
+}
+.MuiBreadcrumbs-separator {
+  font-size: 25px;
+  color: black;
+}
+.breadcrumb__link {
+  display: flex;
+  font-size: 16px;
+  font-weight: 100;
+  color: black;
+  align-items: center;
+}
